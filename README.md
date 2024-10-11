@@ -1,3 +1,7 @@
+
+# mask-validator
+Criação de uma biblioteca no NPM utilizando TypeScript. Esta biblioteca terá a função de realizar o mascaramento de números de celular, CPF, CNPJ e CEP, além de validar esses campos. Para o número de CELULAR, a validação tem que incluir a região por ddd, sem utilizar bibliotecas de terceiros.
+>>>>>>> 71bdf64ff8a8c7013d03a44d8b7b3af6344d4c79
 # Mask Validator
 
 Uma biblioteca para mascarar e validar CPF, CNPJ, números de celular (com DDD) e CEP brasileiros, construída com TypeScript.
@@ -71,5 +75,4 @@ Valida se um CEP tem 8 dígitos e está no formato correto.
 Contribuições
 Sinta-se à vontade para contribuir com o projeto. Basta fazer um fork e enviar um pull request com melhorias ou correções.
 
-
-
+>>>>>>> 71bdf64ff8a8c7013d03a44d8b7b3af6344d4c79
